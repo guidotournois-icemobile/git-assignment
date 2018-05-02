@@ -3,7 +3,7 @@ To learn the basic features of git, we will use the script of a magic 8 ball (8b
 
 ## Assignments:
 
-###Setup: 
+### Setup: 
 * Clone this repo to your computer using `git clone git@github.com/guidotournois-icemobile/git-assignment`. 
 
 ### Basics 1
