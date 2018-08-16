@@ -17,7 +17,7 @@ while ans:
         print("It is certain")
     
     elif answers == 2:
-        print("Outlook good")
+        print("Outlook is good")
     
     elif answers == 3:
         print("You may rely on it")
@@ -36,3 +36,4 @@ while ans:
    
     elif answers == 8:
         print("My sources say no")
+
