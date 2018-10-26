@@ -2,7 +2,6 @@
 import sys
 import random
 
-
 ans = True
 
 while ans:
